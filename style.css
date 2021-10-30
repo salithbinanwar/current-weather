@@ -1,0 +1,58 @@
+.everything{
+    padding: 2%;
+}
+
+body {
+    background: url(images/lightning.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: aliceblue;
+    background-attachment: fixed;
+    /* overflow: hidden */
+    overflow:auto;
+}
+
+.allContents{
+    /* text-align: center; */
+    padding: 2%;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    border-radius: 10px;
+    backdrop-filter: blur(8px);
+    
+}
+
+#clickBtn{
+    color: white;
+}
+
+.someAlert{
+    backdrop-filter: blur(8px);
+    color: #ced1d4;
+}
+
+a{
+   color: white;
+   /* text-decoration: none; */
+}
+
+.iconDiv{
+    
+    backdrop-filter: blur(8px);
+    border-radius: 3px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    /* border: 1px solid black; */
+    margin: 1%;
+    padding: 5%;
+    margin-left: 9%;
+    border-radius: 20px;
+
+}
+i{
+    text-align: center;
+    
+    
+}
+
+.footerArea{
+    margin-top: 10%;
+}
